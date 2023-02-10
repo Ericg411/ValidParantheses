@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParantheses", "ValidParantheses\ValidParantheses.csproj", "{B4B49A28-1ED4-4EE9-8023-8506F629FA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParantheses.Tests", "ValidParantheses.Tests\ValidParantheses.Tests.csproj", "{BAC86632-D911-45FE-83AA-EF25D9E036C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B49A28-1ED4-4EE9-8023-8506F629FA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B49A28-1ED4-4EE9-8023-8506F629FA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B49A28-1ED4-4EE9-8023-8506F629FA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B49A28-1ED4-4EE9-8023-8506F629FA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC86632-D911-45FE-83AA-EF25D9E036C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC86632-D911-45FE-83AA-EF25D9E036C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC86632-D911-45FE-83AA-EF25D9E036C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC86632-D911-45FE-83AA-EF25D9E036C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABEF5FF7-82AE-4D19-A314-15C4E7D9283B}
+	EndGlobalSection
+EndGlobal
